@@ -1,0 +1,6 @@
+// Dolphin de edit ve class isimleri direk olarak memorye açık bir şekilde veriliyor
+// EnumChildWindows ile TEdit class isimli edit kontrolleri bulunuyor
+// y kordinatıan göre name ve seriali ayıklıyor, değeri başka sırayla nasıl alacağımı tam olarak anlamadım
+// idr ile bu değerleri buldu arkadaşım benim için
+// TObject -> TPersistent -> TComponent -> TControl -> TWinControl
+// daha fazla bilgi için: tuts4you.com VCL DFM yapısı araştırılabilirsiniz
